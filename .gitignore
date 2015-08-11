@@ -9,3 +9,6 @@ target
 .lein-plugins
 .lein-repl-history
 
+.idea
+.nrepl-port
+clojure_koans.iml
